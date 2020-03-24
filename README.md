@@ -1,3 +1,3 @@
-# Projeto CRUD - ORM Sequelize
+# Curso FullStack Master - @devpleno
 
-## Desenvolvido no curso FullStack Master - @devpleno
+## Projeto CRUD ORM Sequelize
